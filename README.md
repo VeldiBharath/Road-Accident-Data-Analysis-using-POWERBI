@@ -2,6 +2,16 @@
 
 ![Alt text](image.png)
 
+# Skills Achieved
+
+1. **Data Analysis**: Data Extraction, Data Cleaning, Data Processing, Data Modeling, Data Integration
+2. **Technical Skills**: Power BI, DAX (Data Analysis Expressions), Excel, Power Query, SQL
+3. **Dashboard and Reporting**: Dashboard Design, Data Visualization, KPI Generation, Report Building
+4. **Automation**: Process Automation, Data Update Automation
+5. **Collaboration and Communication**: Stakeholder Collaboration, Cross-Functional Teamwork, Effective Communication of Insights, Requirement Gathering
+6. **Problem-Solving**: Identifying Data Issues, Implementing Data Solutions
+7. **Project Management**: Timely Project Execution, Meeting Project Deadlines
+
 ## Steps Involved:
 
 1. **Requirement Gathering**
